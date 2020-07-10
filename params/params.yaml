@@ -1,0 +1,2 @@
+service_test:
+  use_sim_time: true
